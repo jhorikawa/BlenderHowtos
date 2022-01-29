@@ -1,0 +1,12 @@
+B-*
+*/backup/*
+*/rendering/*
+*/reference/*
+*/animation/*
+*/geo/*
+*.cloudf
+*.cloud
+*.zip
+*.wav
+*/frames/*
+.DS_Store
